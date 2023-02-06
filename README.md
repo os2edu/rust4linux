@@ -91,11 +91,11 @@ rust for linux group
 
 ### 设备驱动类题目
 - （初级）支持virtio协议的各种虚拟外设/功能模块
-- （中级）各种Qemu中模拟设备的驱动程序crate
+- （中级）各种Qemu中模拟设备的驱动程序crate（**对此题目感兴趣：米明恒**）
 
 ### 操作系统类题目
 - （初级）扩展/改进rcore-tutorial-v3，支持各种内核crates
-- （初级）扩展/改进rcore-tutorial-in-single-workspace，支持各种内核crates
+- （初级）扩展/改进rcore-tutorial-in-single-workspace，支持各种内核crates （**对此题目感兴趣：赵芝明**）
 - （中级）扩展arceos等，形成unikernel形态，支持Linux系统调用和Linux应用程序。 （**对此题目感兴趣：石磊**）
 - （高级）设计实现TPU/GPU/APU driver crate on rcore-tutorial..Rust for Linux,可运行在RISC-V or ARM开发板上
 - （高级）扩展 Rust for Linux，更好地支持跨OS的内核相关crates
