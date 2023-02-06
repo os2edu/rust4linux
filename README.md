@@ -60,14 +60,14 @@ rust for linux group
 ### 文件系统类题目
 
 - （中级）log xv6fs文件系统 （**对此题目感兴趣：申珩**）
-- （高级）ext2文件系统 （**对此题目感兴趣：石磊，樊博**）
+- （高级）ext2文件系统 （**对此题目感兴趣：石磊，樊博，李羿廷**）
 
 
 ### 网络类题目
 
 - lose-net-stack 已经实现了 `udp`等，可以对 `lose-net-stack` 进行扩展
 
-- （中级）添加 `lose-net-stack` `tcp` 支持
+- （中级）添加 `lose-net-stack` `tcp` 支持 （**对此题目感兴趣：李羿廷**）
 - （高级）添加 `lose-net-stack` `ipv6` 支持
 - （中级）添加 `lose-net-stack` `icmp` 支持
 
