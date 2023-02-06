@@ -59,8 +59,8 @@ rust for linux group
 
 ### 文件系统类题目
 
-- （中级）log xv6fs文件系统
-- （高级）ext2文件系统
+- （中级）log xv6fs文件系统 （**对此题目感兴趣：申珩**）
+- （高级）ext2文件系统 （**对此题目感兴趣：石磊**）
 
 
 ### 网络类题目
@@ -71,7 +71,7 @@ rust for linux group
 - （高级）添加 `lose-net-stack` `ipv6` 支持
 - （中级）添加 `lose-net-stack` `icmp` 支持
 
-或者基于 `lose-net-stack` 编写相关的用例.（也可以使用 `smoltcp`）
+或者基于 `lose-net-stack` 编写相关的用例.（也可以使用 `smoltcp`）（**对此题目感兴趣：申珩**）
 
 - （中级）基于 `lose-net-stack` 的 `dns` `client`(`udp` 协议)
 - （中级）基于 `lose-net-stack` 的 `ntp` `client`(`udp` 协议 网络时间协议，可以通过网络同步操作系统时间，可以补全很多个人编写的 `os` 时间不准或者不支持的问题。)
@@ -96,7 +96,7 @@ rust for linux group
 ### 操作系统类题目
 - （初级）扩展/改进rcore-tutorial-v3，支持各种内核crates
 - （初级）扩展/改进rcore-tutorial-in-single-workspace，支持各种内核crates
-- （中级）扩展arceos等，形成unikernel形态，支持Linux系统调用和Linux应用程序。
+- （中级）扩展arceos等，形成unikernel形态，支持Linux系统调用和Linux应用程序。 （**对此题目感兴趣：石磊**）
 - （高级）设计实现TPU/GPU/APU driver crate on rcore-tutorial..Rust for Linux,可运行在RISC-V or ARM开发板上
 - （高级）扩展 Rust for Linux，更好地支持跨OS的内核相关crates
 - （高级）扩展 Rust for Linux on RISC-V 32/64
