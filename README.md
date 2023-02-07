@@ -52,7 +52,7 @@ rust for linux learning group
 
 ### 改进组合已有crates
 
-- （入门）改进virtio-drivers crates，支持virtio协议的各种虚拟外设/功能模块
+- （入门）改进virtio-drivers crates，支持virtio协议的各种虚拟外设/功能模块 （**对此题目感兴趣：解晨**）
 - （入门）把新的crates组合入rcore-tutorial-v3 或 rcore-tutorial-in-single-workspace
 - （中级）把已有crate组合入新的OS中，如aceros 
 - （高级）把已有crate组合入新的OS中，如Rust-for-Linux
@@ -80,7 +80,7 @@ rust for linux learning group
 
 基于 `virtio-gpu` 在rcore-tutorial等
 
-- （中级）利用字库显示文字(unicode)
+- （中级）利用字库显示文字(unicode)  （**对此题目感兴趣：解晨**）
     - `bmp` 文件的解析和显示
     - `ico` 文件的解析和显示
     - `jpg` 文件的解析和显示
