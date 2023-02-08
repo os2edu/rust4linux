@@ -80,7 +80,7 @@ rust for linux learning group
 
 基于 `virtio-gpu` 在rcore-tutorial等
 
-- （中级）利用字库显示文字(unicode)  （**对此题目感兴趣：解晨**）
+- （中级）利用字库显示文字(unicode)  （**对此题目感兴趣：解晨，何俊龙**）
     - `bmp` 文件的解析和显示
     - `ico` 文件的解析和显示
     - `jpg` 文件的解析和显示
