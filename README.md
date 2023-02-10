@@ -52,7 +52,7 @@ rust for linux learning group
 
 ### 改进组合已有crates
 
-- （入门）改进virtio-drivers crates，支持virtio协议的各种虚拟外设/功能模块 （**对此题目感兴趣：解晨**）
+- （入门）改进virtio-drivers crates，支持virtio协议的各种虚拟外设/功能模块 （**对此题目感兴趣：解晨，王毅**）
 - （入门）把新的crates组合入rcore-tutorial-v3 或 rcore-tutorial-in-single-workspace
 - （中级）把已有crate组合入新的OS中，如aceros 
 - （高级）把已有crate组合入新的OS中，如Rust-for-Linux
@@ -94,7 +94,7 @@ rust for linux learning group
 - （中级）各种Qemu中模拟设备的驱动程序crate（**对此题目感兴趣：米明恒**）
 
 ### 操作系统类题目
-- （初级）扩展/改进rcore-tutorial-v3，支持各种内核crates
+- （初级）扩展/改进rcore-tutorial-v3，支持各种内核crates （**对此题目感兴趣：王毅**）
 - （初级）扩展/改进rcore-tutorial-in-single-workspace，支持各种内核crates （**对此题目感兴趣：赵芝明**）
 - （中级）扩展arceos等，形成unikernel形态，支持Linux系统调用和Linux应用程序。 （**对此题目感兴趣：石磊**）
 - （高级）设计实现TPU/GPU/APU driver crate on rcore-tutorial..Rust for Linux,可运行在RISC-V or ARM开发板上（**对此题目感兴趣：周毅**）
